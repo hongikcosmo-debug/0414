@@ -10,14 +10,24 @@ import React, { useState, useEffect } from 'react';
  */
 
 const KAKAO_API_KEY = import.meta.env.VITE_KAKAO_API_KEY;
-const BASE_URL = 'https://dapi.kakao.com/v3/search/book';
+//const BASE_URL = 'https://dapi.kakao.com/v3/search/book';
+const BASE_URL = '/api/books';
 
-// 카카오 책 검색 함수
+/* 카카오 책 검색 함수
 const fetchBooks = async (params) => {
   const query = new URLSearchParams(params).toString();
   const res = await fetch(`${BASE_URL}?${query}`, {
     headers: { Authorization: `KakaoAK ${KAKAO_API_KEY}` },
   });
+  if (!res.ok) throw new Error('API 오류');
+  const data = await res.json();
+  return data.documents || [];
+};
+*/
+
+const fetchBooks = async (params) => {
+  const query = new URLSearchParams(params).toString();
+  const res = await fetch(`${BASE_URL}?${query}`);
   if (!res.ok) throw new Error('API 오류');
   const data = await res.json();
   return data.documents || [];
