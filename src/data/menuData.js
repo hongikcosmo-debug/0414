@@ -1,7 +1,7 @@
 const menuData = [
   {
     id: 'god',
-    label: '종교',
+    label: '신',
     books: [
       { id: 'god-1', title: '이병철회장의 24가지 질문', author: '이병철', cover: '/img/24question.png' },
     ],
@@ -19,7 +19,7 @@ const menuData = [
   */
   {
     id: 'family',
-    label: '가족',
+    label: '가족(진행중)',
     books: [
       { id: 'family-1', title: '82년생 김지영', author: '조남주', cover: 'https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=120&q=80' },
       { id: 'family-new', title: '가족의 재발견', author: '전민재', cover: 'https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/480D241108120.jpg' },
@@ -39,7 +39,7 @@ const menuData = [
   },
   {
     id: 'nation',
-    label: '국가',
+    label: '국가(진행중)',
     books: [
       { id: 'nation-politics', title: '정치개혁', author: '이천공', cover: 'https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791189546526.jpg' },
     { id: 'nation-1', title: '국가론', author: '플라톤', cover: 'https://images.unsplash.com/photo-1532012197267-da84d127e765?w=120&q=80' },
@@ -58,7 +58,7 @@ const menuData = [
   */
   {
     id: 'economy',
-    label: '경제',
+    label: '경제(진행중)',
     books: [
       { id: 'economy-1', title: '국부론', author: '애덤 스미스', cover: 'https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=120&q=80' },
       { id: 'economy-2', title: '자본론', author: '카를 마르크스', cover: 'https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=120&q=80' },
@@ -67,7 +67,7 @@ const menuData = [
   },
   {
     id: 'society',
-    label: '사회',
+    label: '사회(진행중)',
     books: [
       { id: 'society-1', title: '사회계약론', author: '장 자크 루소', cover: 'https://images.unsplash.com/photo-1532012197267-da84d127e765?w=120&q=80' },
       { id: 'society-2', title: '군중심리', author: '귀스타브 르봉', cover: 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=120&q=80' },
@@ -75,7 +75,7 @@ const menuData = [
   },
   {
     id: 'environment',
-    label: '환경',
+    label: '환경(진행중)',
     books: [
       { id: 'environment-1', title: '침묵의 봄', author: '레이철 카슨', cover: 'https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=120&q=80' },
       { id: 'environment-2', title: '6도의 악몽', author: '마크 라이너스', cover: 'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=120&q=80' },
@@ -83,7 +83,7 @@ const menuData = [
   },
   {
     id: 'health',
-    label: '체질',
+    label: '체질(진행중)',
     books: [
       { id: 'health-1', title: '몸의 일기', author: '다니엘 페나크', cover: 'https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=120&q=80' },
       { id: 'health-2', title: '음식의 제국', author: '에릭 슐로서', cover: 'https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=120&q=80' },
@@ -91,7 +91,7 @@ const menuData = [
   },
   {
     id: 'universe',
-    label: '우주',
+    label: '우주(진행중)',
     books: [
       { id: 'universe-1', title: '코스모스', author: '칼 세이건', cover: 'https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=120&q=80' },
       { id: 'universe-2', title: '시간의 역사', author: '스티븐 호킹', cover: 'https://images.unsplash.com/photo-1532012197267-da84d127e765?w=120&q=80' },
@@ -108,7 +108,7 @@ const menuData = [
   },
   {
     id: 'research',
-    label: '연구',
+    label: '연구(진행중)',
     books: [
       { id: 'research-1', title: '총균쇠', author: '재레드 다이아몬드', cover: 'https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=120&q=80' },
       { id: 'research-2', title: '생각에 관한 생각', author: '다니엘 카너먼', cover: 'https://images.unsplash.com/photo-1535905557558-afc4877a26fc?w=120&q=80' },
