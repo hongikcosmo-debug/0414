@@ -1,0 +1,41 @@
+<svg width="100%" viewBox="0 0 640 220" role="img">
+      <title>하느님은 에너지 — 대자연의 모든 것이 하나의 에너지</title>
+      <desc>하느님이라는 거대한 에너지 안에 별, 물, 바람, 인간이 모두 포함된 그림</desc>
+      <rect width="640" height="220" fill="none"/>
+      <!-- 바깥 큰 원 = 하느님(대자연 에너지) -->
+      <ellipse cx="320" cy="110" rx="290" ry="95" fill="none" stroke="#c4a84d" stroke-width="1.5" stroke-dasharray="6,4"/>
+      <text x="320" y="22" text-anchor="middle" font-family="Noto Serif KR,serif" font-size="13" fill="#c4a84d" font-weight="600">하느님 = 대자연의 에너지 (스스로 계심)</text>
+
+      <!-- 별 -->
+      <circle cx="120" cy="80" r="22" fill="#2a1f08" stroke="#f0d97a" stroke-width="1"/>
+      <text x="120" y="75" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="10" fill="#f0d97a">⭐</text>
+      <text x="120" y="91" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="9" fill="#c4a84d">별·우주</text>
+
+      <!-- 물 -->
+      <circle cx="210" cy="145" r="22" fill="#0a1a2a" stroke="#6ab0d4" stroke-width="1"/>
+      <text x="210" y="140" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="10" fill="#6ab0d4">💧</text>
+      <text x="210" y="156" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="9" fill="#6ab0d4">물·대지</text>
+
+      <!-- 바람/공기 -->
+      <circle cx="320" cy="75" r="22" fill="#0f1a10" stroke="#7abf7a" stroke-width="1"/>
+      <text x="320" y="70" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="10" fill="#7abf7a">🌿</text>
+      <text x="320" y="86" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="9" fill="#7abf7a">바람·기운</text>
+
+      <!-- 불 -->
+      <circle cx="430" cy="145" r="22" fill="#2a0f08" stroke="#e07a30" stroke-width="1"/>
+      <text x="430" y="140" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="10" fill="#e07a30">🔥</text>
+      <text x="430" y="156" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="9" fill="#e07a30">불·빛·열</text>
+
+      <!-- 인간 -->
+      <circle cx="520" cy="80" r="22" fill="#1a0a2a" stroke="#b070d4" stroke-width="1"/>
+      <text x="520" y="75" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="10" fill="#b070d4">🧑</text>
+      <text x="520" y="91" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="9" fill="#b070d4">인간·생명</text>
+
+      <!-- 연결선 -->
+      <line x1="142" y1="80" x2="208" y2="125" stroke="#c4a84d" stroke-width="0.6" stroke-dasharray="4,3" opacity="0.5"/>
+      <line x1="232" y1="130" x2="298" y2="90" stroke="#c4a84d" stroke-width="0.6" stroke-dasharray="4,3" opacity="0.5"/>
+      <line x1="342" y1="90" x2="408" y2="128" stroke="#c4a84d" stroke-width="0.6" stroke-dasharray="4,3" opacity="0.5"/>
+      <line x1="452" y1="128" x2="498" y2="95" stroke="#c4a84d" stroke-width="0.6" stroke-dasharray="4,3" opacity="0.5"/>
+
+      <text x="320" y="208" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="11" fill="#7a6020">모든 것은 하나의 에너지 안에 있다 — 이것이 하느님</text>
+    </svg>

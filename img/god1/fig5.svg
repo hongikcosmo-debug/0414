@@ -1,0 +1,29 @@
+<svg width="100%" viewBox="0 0 640 240" role="img">
+      <title>하느님 몸 안에 있는 모든 세계</title>
+      <desc>하느님이라는 가장 큰 원 안에 천상계, 인간계, 지옥계가 모두 포함되어 있다</desc>
+      <rect width="640" height="240" fill="none"/>
+      <!-- 하느님 = 가장 큰 원 -->
+      <ellipse cx="320" cy="118" rx="300" ry="108" fill="none" stroke="#f0d97a" stroke-width="1.5" stroke-dasharray="8,5"/>
+      <text x="320" y="22" text-anchor="middle" font-family="Noto Serif KR,serif" font-size="13" fill="#f0d97a" font-weight="600">하느님 (천지 대자연 기운)</text>
+
+      <!-- 천상계 -->
+      <ellipse cx="200" cy="90" rx="100" ry="55" fill="#16120a" stroke="#f0d97a" stroke-width="1"/>
+      <text x="200" y="82" text-anchor="middle" font-family="Noto Serif KR,serif" font-size="11" fill="#f0d97a">천상계</text>
+      <text x="200" y="97" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="9" fill="#c4a84d">대신·영혼들</text>
+
+      <!-- 인간계 -->
+      <ellipse cx="390" cy="90" rx="100" ry="55" fill="#0f1a10" stroke="#7abf7a" stroke-width="1"/>
+      <text x="390" y="82" text-anchor="middle" font-family="Noto Serif KR,serif" font-size="11" fill="#7abf7a">인간계</text>
+      <text x="390" y="97" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="9" fill="#5a9f5a">3차원 지구</text>
+
+      <!-- 지옥계 -->
+      <ellipse cx="295" cy="175" rx="100" ry="46" fill="#1a0808" stroke="#e05050" stroke-width="1"/>
+      <text x="295" y="169" text-anchor="middle" font-family="Noto Serif KR,serif" font-size="11" fill="#e05050">지옥계</text>
+      <text x="295" y="184" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="9" fill="#a03030">방편으로 존재</text>
+
+      <!-- 화살표 (삶→죽음→영계) -->
+      <path d="M330 105 Q320 130 308 155" fill="none" stroke="#c4a84d" stroke-width="0.8" stroke-dasharray="4,3" marker-end="url(#a1)"/>
+      <text x="345" y="128" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="9" fill="#9a7a30">사후</text>
+
+      <text x="320" y="228" text-anchor="middle" font-family="Noto Sans KR,sans-serif" font-size="11" fill="#9a7a30">살아서도 죽어서도 — 모든 곳이 하느님 몸 안</text>
+    </svg>
